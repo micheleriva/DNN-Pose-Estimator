@@ -1,4 +1,4 @@
-# DNN Pose Estimator in GoLang
+# 🎩 DNN Pose Estimator in GoLang
 
 Simple **pose estimator** written in GoLang on top of GoCV (Open Computer Vision porting for Go).
 
@@ -22,4 +22,4 @@ $ ./main
 
 # Example
 
-![Example](https://bitbucket.org/om-art/dnn-pose-estimator-go/raw/5b63bfbfe0d760b86f010a52ea3fa906eeb005f2/doc/example.png)
+![Example](./doc/example.png)
